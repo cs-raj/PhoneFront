@@ -76,11 +76,11 @@
 
 | Feature | Benefit |
 |---------|---------|
-| **Edge Personalization** | Sub-100ms personalization at the edge for instant user experience |
-| **Real-time Filtering** | Dynamic price range filters with instant updates |
-| **SEO Optimized** | Server-side rendering for better search engine visibility |
-| **Analytics Integration** | Lytics Analytics for comprehensive tracking |
-| **Feedback System** | User feedback collection for continuous improvement |
+| **Edge Personalization** | Personalization at the edge using ContentStack Launch edge functions for optimized user experience |
+| **Dynamic Filtering** | Dynamic price range filters with instant updates when applied |
+| **SEO Optimized** | Server-side rendering with metadata generation for better search engine visibility |
+| **Analytics Integration** | Lytics Analytics for comprehensive user behavior tracking |
+| **Feedback System** | User feedback collection system with form submission to ContentStack CMS |
 
 ---
 
