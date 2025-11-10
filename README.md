@@ -8,9 +8,19 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![ContentStack](https://img.shields.io/badge/ContentStack-CMS-orange?style=for-the-badge)](https://www.contentstack.com/)
 [![ContentStack Launch](https://img.shields.io/badge/ContentStack-Launch-orange?style=for-the-badge)](https://www.contentstack.com/)
+[![ContentStack Personalise](https://img.shields.io/badge/ContentStack-Personalise-orange?style=for-the-badge)](https://www.contentstack.com/)
 [![Jest](https://img.shields.io/badge/Jest-Testing-C21325?style=for-the-badge&logo=jest)](https://jestjs.io/)
+[![v0](https://img.shields.io/badge/v0-Design-000000?style=for-the-badge)](https://v0.dev/)
+[![Mermaid](https://img.shields.io/badge/Mermaid-Diagrams-ff6b6b?style=for-the-badge&logo=mermaid)](https://mermaid.js.org/)
+[![Eraser](https://img.shields.io/badge/Eraser-Architecture-000000?style=for-the-badge)](https://www.eraser.io/)
 
 [Features](#-features) • [Architecture](#-architecture) • [Getting Started](#-getting-started) • [Documentation](#-documentation) • [Contributing](#-contributing)
+
+<div align="right">
+
+🌐 **[Live Application →](https://phonefront.contentstackapps.com/)**
+
+</div>
 
 </div>
 
@@ -22,6 +32,7 @@
 - [Features](#-features)
 - [Architecture](#-architecture)
 - [Technology Stack](#-technology-stack)
+- [Tools & Services](#️-tools--services)
 - [Getting Started](#-getting-started)
 - [Project Structure](#-project-structure)
 - [API Documentation](#-api-documentation)
@@ -177,6 +188,31 @@ graph TB
 |---------|---------|
 | [ContentStack Launch](https://www.contentstack.com/) | Hosting & Edge Functions Platform |
 | [Lytics](https://www.lytics.com/) | User behavior analytics |
+
+---
+
+## 🛠️ Tools & Services
+
+### Design & Development Tools
+
+| Tool | Status | Purpose |
+|------|--------|---------|
+| [v0](https://v0.dev/) | ✅ Used | Creating the frontend from wireframe |
+| [UX Pilot](https://uxpilot.com/) | ✅ Used | Creating the wireframe of the website from TRD |
+| [Mermaid](https://mermaid.js.org/) | ✅ Used | Creating the initial architecture diagrams |
+| [Whimsical](https://whimsical.com/) | ✅ Used | Creating sequence diagrams |
+| [Eraser](https://www.eraser.io/) | ✅ Used | Creating the architecture diagram |
+
+### ContentStack Tools & Services
+
+| Tool | Status | Purpose |
+|------|--------|---------|
+| **ContentStack Management API/SDK** | ✅ Used | Creating variant entries through Postman, In App to create entry for feedback form |
+| **ContentStack Delivery API/SDK** | ✅ Used | Fetching the published entries and variants |
+| **ContentStack Automate** | ✅ Used | Creating terms in the companies taxonomy, Sending email to user about feedback acknowledgement |
+| **ContentStack Launch** | ✅ Used | Hosting the frontend of the application |
+| **ContentStack Marketplace** | ✅ Used | Content-type visualiser |
+| **ContentStack Personalise** | ✅ Used | Creating segmented experience based on location and A/B Testing of phones with different specifications |
 
 ---
 
@@ -506,14 +542,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 Built with ❤️ by the PhoneFront Team
-
----
-
-## 🙏 Acknowledgments
-
-- [Next.js](https://nextjs.org/) team for the amazing framework
-- [ContentStack](https://www.contentstack.com/) for the powerful CMS and Launch Platform
-- All contributors and the open-source community
 
 ---
 
